@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368296205666",
+    "project_id": "assignup-74175",
+    "storage_bucket": "assignup-74175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368296205666:android:d23b26664e157df877603b",
+        "android_client_info": {
+          "package_name": "com.AssignUp.AssignUp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArY7YqTaSNVL5x8yklWHvpIXj1eVRpo40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368296205666:android:c030d55293c1474f77603b",
+        "android_client_info": {
+          "package_name": "com.assignup.assignup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArY7YqTaSNVL5x8yklWHvpIXj1eVRpo40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
